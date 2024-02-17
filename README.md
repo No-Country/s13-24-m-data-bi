@@ -13,8 +13,8 @@ Pretendemos analizar el comportamiento y evolución de algunas "comodities" (mat
 
 |Participantes|Roles|
 |:---:|:---:|
-|<a href="https://github.com/Franco-Arce">Elvis Jimenez</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)| ![](https://img.shields.io/badge/Project%20Manager-violet?style=for-the-badge)|
-|<a href="https://github.com/Estefaniavago">Juan M. Lopez </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
-|<a href="https://github.com/MrForii">Pablo López Ch. </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
-|<a href="https://github.com/jcdip2500">Amerika Viana</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
-|<a href="https://github.com/Matias-Ibarra">German Rodriguez</a>|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge) ![](https://img.shields.io/badge/DATA%20ENGINEER-green?style=for-the-badge)|
+|<a href="https://github.com/">Elvis Jimenez</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge) ![](https://img.shields.io/badge/Project%20Manager-violet?style=for-the-badge)|
+|<a href="https://github.com/">Juan M. Lopez </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
+|<a href="https://github.com/">Pablo López Ch. </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
+|<a href="https://github.com/">Amerika Viana</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
+|<a href="https://github.com/">German Rodriguez</a>|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge) ![](https://img.shields.io/badge/DATA%20ENGINEER-green?style=for-the-badge)|
