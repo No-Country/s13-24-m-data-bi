@@ -13,7 +13,7 @@ Pretendemos analizar el comportamiento y evolución de algunas "comodities" (mat
 
 |Participantes|Roles|
 |:---:|:---:|
-|<a href="https://github.com/Franco-Arce">Elvis Jimenez</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
+|<a href="https://github.com/Franco-Arce">Elvis Jimenez</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)| ![](https://img.shields.io/badge/Project%20Manager-violet?style=for-the-badge)|
 |<a href="https://github.com/Estefaniavago">Juan M. Lopez </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
 |<a href="https://github.com/MrForii">Pablo López Ch. </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
 |<a href="https://github.com/jcdip2500">Amerika Viana</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge)|
