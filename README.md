@@ -15,4 +15,4 @@ Pretendemos analizar el comportamiento y evolución de algunas "comodities" (mat
 |<a href="https://github.com/">Juan M. Lopez </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge) ![](https://img.shields.io/badge/ETL%20-orange?style=for-the-badge)|
 |<a href="https://github.com/">Pablo López Ch. </a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge) ![](https://img.shields.io/badge/ETL%20-orange?style=for-the-badge) |
 |<a href="https://github.com/">Amerika Viana</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge) ![](https://img.shields.io/badge/ETL%20-orange?style=for-the-badge)|
-|<a href="https://github.com/">German Rodriguez</a>|![](https://img.shields.io/badge/DATA%20SCIENTIST-blue?style=for-the-badge) ![](https://img.shields.io/badge/DATA%20ENGINEER-green?style=for-the-badge)|
+|<a href="https://github.com/">German Rodriguez</a>|![](https://img.shields.io/badge/DATA%20SBI-blue?style=for-the-badge) ![](https://img.shields.io/badge/DATA%20SCIENTIST-green?style=for-the-badge)|
