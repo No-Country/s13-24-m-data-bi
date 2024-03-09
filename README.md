@@ -75,4 +75,8 @@ Como analista financiero de una empresa de chocolates, quiero realizar un análi
 
 Como investigador de la industria, quiero realizar un seguimiento de la producción de cacao por país a lo largo del tiempo para identificar patrones y tendencias en la oferta global de cacao. 
 
+<h3><b><a href="https://github.com/">Desarrollo del MVP del proyecto, del equipo s13-24-m-data-bi</a></h3>
 
+Análisis del Petroleo usando Colab de google.
+
+https://colab.research.google.com/drive/1j3njCIkPO4iAbYL3B6LWDmsXeHQRehfB#scrollTo=dCVwh8pwdubI
