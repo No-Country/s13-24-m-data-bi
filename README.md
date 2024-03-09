@@ -23,7 +23,7 @@ Tomamos esta área, porque pensamos que la economía es el principal aspecto que
 
 Después de elegir el tema a analizar, nos avocamos a desarrollar las "User stories":
 
-User Stories para el proyecto, del equipo s13-24-m-data-bi
+|<a href="https://github.com/">User Stories para el proyecto, del equipo s13-24-m-data-bi</a>|
 
 Estudio gráfico de la evolución de las “commodities": Litio, Petróleo, Cacao y Oro. Y sus correlaciones.
 
