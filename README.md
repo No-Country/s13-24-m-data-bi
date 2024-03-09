@@ -89,4 +89,8 @@ https://app.powerbi.com/view?r=eyJrIjoiYzg1NGE1YjktMGY4NC00MjcyLTg4NGMtZTE3Y2IxM
 
 https://app.powerbi.com/view?r=eyJrIjoiOWE5OTUzMjQtMDU5OS00NjE3LTgwZDAtNTgzMzYwZWYzMDZlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
+<h3><b>Análisis y modelo predictivo del Oro usando Colab de google.</h3>
+
+https://colab.research.google.com/drive/1HRQsUbJI4QuurIsJ06ZFa-y3boTRcpiv
+
 
