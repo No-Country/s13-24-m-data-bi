@@ -96,3 +96,8 @@ https://colab.research.google.com/drive/1HRQsUbJI4QuurIsJ06ZFa-y3boTRcpiv
 <h3><b>Landing Page usando Kanva sites.</h3>
 
 https://germanrodriguezdata.my.canva.site/invesment
+
+<h3><b>Trello. Herramienta de gestión del proyecto</h3>
+
+https://trello.com/b/gKZiRrjM/no-country-team-s13-24-m-data-bi
+
