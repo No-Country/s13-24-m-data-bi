@@ -17,13 +17,19 @@ Pretendemos analizar el comportamiento y evolución de algunas "comodities" (mat
 |<a href="https://github.com/">Amerika Viana</a>|![](https://img.shields.io/badge/DATA%20ANALYST-yellow?style=for-the-badge) ![](https://img.shields.io/badge/ETL%20-orange?style=for-the-badge)|
 |<a href="https://github.com/">German Rodriguez</a>|![](https://img.shields.io/badge/DATA%20BI-blue?style=for-the-badge) ![](https://img.shields.io/badge/DATA%20SCIENTIST-green?style=for-the-badge)|
 
+
+
 Como siempre en la metodologías Ágiles comenzamos con una tormenta de ideas para elegir el "MVP" a desarrollar, dando como resultado el análisis de datos de las "comódities": Cacao, Petróleo, Litio y Oro.
+
+
 
 Tomamos esta área, porque pensamos que la economía es el principal aspecto que afecta la vida de los habitantes de un país, y por extensión de los habitantes del planeta. Dentro de la economía en nuestro subcontinente (Latinoamérica). Las "Comodities han jugado, juegan y jugaran, un rol primordial en el desarrollo de nuestras economías. De ahí la importancia en analizar su comportamiento, y en tomar conciencia de su evolución, y su comportamiento futuro en torno a su rendimiento.
 
 Después de elegir el tema a analizar, nos avocamos a desarrollar las "User stories":
 
-|<a href="https://github.com/">User Stories para el proyecto, del equipo s13-24-m-data-bi</a>|
+
+
+|<h3><b><a href="https://github.com/">User Stories para el proyecto, del equipo s13-24-m-data-bi</a></h3>|
 
 Estudio gráfico de la evolución de las “commodities": Litio, Petróleo, Cacao y Oro. Y sus correlaciones.
 
