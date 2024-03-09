@@ -77,6 +77,8 @@ Como investigador de la industria, quiero realizar un seguimiento de la producci
 
 <h3><b><a href="https://github.com/">Desarrollo del MVP del proyecto, del equipo s13-24-m-data-bi</a></h3>
 
-Análisis del Petroleo usando Colab de google.
+<h3><b>Análisis del Petroleo usando Colab de google.</h3>
 
 https://colab.research.google.com/drive/1j3njCIkPO4iAbYL3B6LWDmsXeHQRehfB#scrollTo=dCVwh8pwdubI
+
+
