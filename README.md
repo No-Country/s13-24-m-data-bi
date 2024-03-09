@@ -81,4 +81,12 @@ Como investigador de la industria, quiero realizar un seguimiento de la producci
 
 https://colab.research.google.com/drive/1j3njCIkPO4iAbYL3B6LWDmsXeHQRehfB#scrollTo=dCVwh8pwdubI
 
+<h3><b>Análisis del Cacao usando Power BI de Microsoft.</h3>
+
+https://app.powerbi.com/view?r=eyJrIjoiYzg1NGE1YjktMGY4NC00MjcyLTg4NGMtZTE3Y2IxMmNiZGU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+<h3><b>Análisis del Litio usando Power BI de Microsoft.</h3>
+
+https://app.powerbi.com/view?r=eyJrIjoiOWE5OTUzMjQtMDU5OS00NjE3LTgwZDAtNTgzMzYwZWYzMDZlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 
