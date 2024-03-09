@@ -93,4 +93,6 @@ https://app.powerbi.com/view?r=eyJrIjoiOWE5OTUzMjQtMDU5OS00NjE3LTgwZDAtNTgzMzYwZ
 
 https://colab.research.google.com/drive/1HRQsUbJI4QuurIsJ06ZFa-y3boTRcpiv
 
+<h3><b>Landing Page usando Kanva sites.</h3>
 
+https://germanrodriguezdata.my.canva.site/invesment
